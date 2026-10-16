@@ -1,0 +1,29 @@
+Updated footprint R8 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint D1 (LED_SMD:LED_0603_1608Metric): : OK
+Updated footprint C1 (Capacitor_SMD:C_0805_2012Metric): : OK
+Info: Updated footprint SW2 (Button_Switch_SMD:SW_SPST_TL3342): : (no changes)
+Updated footprint C3 (Capacitor_SMD:C_0805_2012Metric): : OK
+Updated footprint H1 (MountingHole:MountingHole_3.2mm_M3): : OK
+Updated footprint C7 (Capacitor_SMD:C_0603_1608Metric): : OK
+Updated footprint H3 (MountingHole:MountingHole_3.2mm_M3): : OK
+Updated footprint J2 (Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical): : OK
+Updated footprint C6 (Capacitor_SMD:C_0603_1608Metric): : OK
+Info: Updated footprint SW1 (Button_Switch_SMD:SW_SPST_TL3342): : (no changes)
+Updated footprint J1 (Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal): : OK
+Updated footprint R5 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint H4 (MountingHole:MountingHole_3.2mm_M3): : OK
+Updated footprint H2 (MountingHole:MountingHole_3.2mm_M3): : OK
+Updated footprint R7 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint R3 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint R6 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint C4 (Capacitor_SMD:C_0805_2012Metric): : OK
+Info: Updated footprint SW3 (Button_Switch_SMD:SW_SPST_TL3342): : (no changes)
+Updated footprint R4 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint C2 (Capacitor_SMD:C_0603_1608Metric): : OK
+Updated footprint R9 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint R1 (Resistor_SMD:R_0603_1608Metric): : OK
+Updated footprint C5 (Capacitor_SMD:C_0603_1608Metric): : OK
+Updated footprint C8 (Capacitor_SMD:C_0603_1608Metric): : OK
+Updated footprint U1 (RF_Module:ESP32-S3-WROOM-1): : OK
+Info: Updated footprint U2 (Package_TO_SOT_SMD:SOT-223-3_TabPin2): : (no changes)
+Updated footprint R2 (Resistor_SMD:R_0603_1608Metric): : OK

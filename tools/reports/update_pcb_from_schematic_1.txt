@@ -1,0 +1,217 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J1:Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'J2:Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_3.2mm_M3'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_TL3342'.
+Info: Processing symbol 'SW2:Button_Switch_SMD:SW_SPST_TL3342'.
+Info: Processing symbol 'SW3:Button_Switch_SMD:SW_SPST_TL3342'.
+Info: Processing symbol 'U1:RF_Module:ESP32-S3-WROOM-1'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Updated C3 sheetname to '/'.
+Updated C3 footprint filters to 'C_*'.
+Updated C3 unit metadata.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 footprint filters to 'C_*'.
+Updated C4 unit metadata.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 footprint filters to 'C_*'.
+Updated C5 unit metadata.
+Updated C6 sheetname to '/'.
+Updated C6 footprint filters to 'C_*'.
+Updated C6 unit metadata.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 footprint filters to 'C_*'.
+Updated C7 unit metadata.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 footprint filters to 'C_*'.
+Updated C8 unit metadata.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Updated D1 unit metadata.
+Updated H1 fields.
+Updated H1 sheetname to '/'.
+Updated H1 footprint filters to 'MountingHole*'.
+Removed H1 'exclude from BOM' fabrication attribute.
+Removed H1 'exclude from position files' fabrication attribute.
+Updated H1 unit metadata.
+Updated C6 fields.
+Updated H2 fields.
+Updated H2 sheetname to '/'.
+Updated H2 footprint filters to 'MountingHole*'.
+Removed H2 'exclude from BOM' fabrication attribute.
+Removed H2 'exclude from position files' fabrication attribute.
+Updated H2 unit metadata.
+Updated H3 fields.
+Updated H3 sheetname to '/'.
+Updated H3 footprint filters to 'MountingHole*'.
+Removed H3 'exclude from BOM' fabrication attribute.
+Removed H3 'exclude from position files' fabrication attribute.
+Updated H3 unit metadata.
+Updated H4 fields.
+Updated H4 sheetname to '/'.
+Updated H4 footprint filters to 'MountingHole*'.
+Removed H4 'exclude from BOM' fabrication attribute.
+Removed H4 'exclude from position files' fabrication attribute.
+Updated H4 unit metadata.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 footprint filters to 'USB*C*Receptacle*'.
+Add net unconnected-(J1-SBU2-PadB8).
+Connected J1 pin B8 to unconnected-(J1-SBU2-PadB8).
+Add net unconnected-(J1-SBU1-PadA8).
+Connected J1 pin A8 to unconnected-(J1-SBU1-PadA8).
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Updated J2 unit metadata.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 footprint filters to 'R_*'.
+Updated R1 unit metadata.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 footprint filters to 'R_*'.
+Updated R2 unit metadata.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 footprint filters to 'R_*'.
+Updated R3 unit metadata.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 footprint filters to 'R_*'.
+Updated R4 unit metadata.
+Updated J1 unit metadata.
+Updated R5 fields.
+Updated R5 sheetname to '/'.
+Updated R5 footprint filters to 'R_*'.
+Updated R5 unit metadata.
+Updated C1 fields.
+Updated R6 fields.
+Updated R6 sheetname to '/'.
+Updated R6 footprint filters to 'R_*'.
+Updated R6 unit metadata.
+Updated C1 sheetname to '/'.
+Updated R7 fields.
+Updated R7 sheetname to '/'.
+Updated R7 footprint filters to 'R_*'.
+Updated R7 unit metadata.
+Updated C1 footprint filters to 'C_*'.
+Updated R8 fields.
+Updated R8 sheetname to '/'.
+Updated R8 footprint filters to 'R_*'.
+Updated R8 unit metadata.
+Updated C1 unit metadata.
+Updated R9 fields.
+Updated R9 sheetname to '/'.
+Updated R9 footprint filters to 'R_*'.
+Updated R9 unit metadata.
+Updated C2 fields.
+Updated SW1 fields.
+Updated SW1 sheetname to '/'.
+Updated SW1 unit metadata.
+Updated C2 sheetname to '/'.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 unit metadata.
+Updated C2 footprint filters to 'C_*'.
+Updated SW3 fields.
+Updated SW3 sheetname to '/'.
+Updated SW3 unit metadata.
+Updated C2 unit metadata.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 footprint filters to 'ESP32?S3?WROOM?1*'.
+Add net unconnected-(U1-IO2-Pad38).
+Connected U1 pin 38 to unconnected-(U1-IO2-Pad38).
+Add net unconnected-(U1-IO45-Pad26).
+Connected U1 pin 26 to unconnected-(U1-IO45-Pad26).
+Add net unconnected-(U1-IO5-Pad5).
+Connected U1 pin 5 to unconnected-(U1-IO5-Pad5).
+Add net unconnected-(U1-IO6-Pad6).
+Connected U1 pin 6 to unconnected-(U1-IO6-Pad6).
+Add net unconnected-(U1-IO47-Pad24).
+Connected U1 pin 24 to unconnected-(U1-IO47-Pad24).
+Add net unconnected-(U1-IO10-Pad18).
+Connected U1 pin 18 to unconnected-(U1-IO10-Pad18).
+Add net unconnected-(U1-IO42-Pad35).
+Connected U1 pin 35 to unconnected-(U1-IO42-Pad35).
+Add net unconnected-(U1-IO16-Pad9).
+Connected U1 pin 9 to unconnected-(U1-IO16-Pad9).
+Add net unconnected-(U1-IO18-Pad11).
+Connected U1 pin 11 to unconnected-(U1-IO18-Pad11).
+Add net unconnected-(U1-IO35-Pad28).
+Connected U1 pin 28 to unconnected-(U1-IO35-Pad28).
+Add net unconnected-(U1-IO7-Pad7).
+Connected U1 pin 7 to unconnected-(U1-IO7-Pad7).
+Add net unconnected-(U1-IO9-Pad17).
+Connected U1 pin 17 to unconnected-(U1-IO9-Pad17).
+Add net unconnected-(U1-IO40-Pad33).
+Connected U1 pin 33 to unconnected-(U1-IO40-Pad33).
+Add net unconnected-(U1-IO11-Pad19).
+Connected U1 pin 19 to unconnected-(U1-IO11-Pad19).
+Add net unconnected-(U1-IO38-Pad31).
+Connected U1 pin 31 to unconnected-(U1-IO38-Pad31).
+Add net unconnected-(U1-IO13-Pad21).
+Connected U1 pin 21 to unconnected-(U1-IO13-Pad21).
+Add net unconnected-(U1-IO46-Pad16).
+Connected U1 pin 16 to unconnected-(U1-IO46-Pad16).
+Add net unconnected-(U1-RXD0-Pad36).
+Connected U1 pin 36 to unconnected-(U1-RXD0-Pad36).
+Add net unconnected-(U1-IO37-Pad30).
+Connected U1 pin 30 to unconnected-(U1-IO37-Pad30).
+Add net unconnected-(U1-IO36-Pad29).
+Connected U1 pin 29 to unconnected-(U1-IO36-Pad29).
+Add net unconnected-(U1-IO39-Pad32).
+Connected U1 pin 32 to unconnected-(U1-IO39-Pad32).
+Add net unconnected-(U1-IO14-Pad22).
+Connected U1 pin 22 to unconnected-(U1-IO14-Pad22).
+Add net unconnected-(U1-IO21-Pad23).
+Connected U1 pin 23 to unconnected-(U1-IO21-Pad23).
+Add net unconnected-(U1-IO8-Pad12).
+Connected U1 pin 12 to unconnected-(U1-IO8-Pad12).
+Add net unconnected-(U1-IO12-Pad20).
+Connected U1 pin 20 to unconnected-(U1-IO12-Pad20).
+Add net unconnected-(U1-IO41-Pad34).
+Connected U1 pin 34 to unconnected-(U1-IO41-Pad34).
+Add net unconnected-(U1-IO17-Pad10).
+Connected U1 pin 10 to unconnected-(U1-IO17-Pad10).
+Add net unconnected-(U1-IO15-Pad8).
+Connected U1 pin 8 to unconnected-(U1-IO15-Pad8).
+Add net unconnected-(U1-IO48-Pad25).
+Connected U1 pin 25 to unconnected-(U1-IO48-Pad25).
+Add net unconnected-(U1-TXD0-Pad37).
+Connected U1 pin 37 to unconnected-(U1-TXD0-Pad37).
+Updated U1 unit metadata.
+Updated C3 fields.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 footprint filters to 'SOT?223*'.
+Updated U2 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.

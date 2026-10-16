@@ -1,0 +1,10 @@
+# KiCad lock files, autosaves, local view settings, caches
+*.lck
+.history/
+*.kicad_prl
+*-backups/
+fp-info-cache
+_autosave-*
+# local backup copies kept outside the repo
+tools/backup/
+tools/old/

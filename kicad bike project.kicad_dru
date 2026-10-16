@@ -1,0 +1,13 @@
+(version 1)
+
+# Exceptions to the board-wide rules. Both come from the official KiCad library land patterns.
+
+# ESP32-S3-WROOM-1 footprint puts 0.2 mm thermal vias in the exposed GND pad (board minimum is 0.3 mm).
+(rule "U1 exposed-pad thermal vias"
+  (constraint hole_size (min 0.2mm))
+  (condition "A.Type == 'Pad' && A.intersectsCourtyard('U1')"))
+
+# GCT USB4105 land pattern: alignment holes sit 0.19 mm from the GND pads (board minimum is 0.25 mm).
+(rule "J1 USB-C alignment holes"
+  (constraint hole_clearance (min 0.15mm))
+  (condition "A.intersectsCourtyard('J1') && B.intersectsCourtyard('J1')"))
